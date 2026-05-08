@@ -1,9 +1,19 @@
 # ASPI Ticket Planner
 
+> **このリポジトリは 2026-05-09 にアーカイブされました。**
+> 機能は ASPI トレーナーツール（カロリー計算 / 消化プラン / チケット価値の3タブ統合版）に移行しています。
+>
+> - **統合版**: https://aspi-tools.github.io/aspi-calorie-calc/ （`#plan` で消化プラン、`#value` でチケット価値に直接遷移可）
+> - **統合版リポ**: https://github.com/aspi-tools/aspi-calorie-calc
+>
+> 旧URL（https://aspi-tools.github.io/aspi-ticket-planner/）は配布済みQRとの互換のため当面そのまま稼働しますが、新規開発はすべて統合版で行います。
+
+---
+
 ASPIRESTのチケット制度（回数変更可・繰越蓄積）を可視化する、iPad対面提案ツール。
 
-🔗 **Live**: https://aspi-tools.github.io/aspi-ticket-planner/
-📱 **iPad運用**: 上記URLをSafariで開く（QRコード: [運用QR.png](運用QR.png)）
+🔗 **Live（旧・互換維持）**: https://aspi-tools.github.io/aspi-ticket-planner/
+📱 **iPad運用（推奨は統合版）**: https://aspi-tools.github.io/aspi-calorie-calc/
 📖 **使い方**: [使用マニュアル.md](使用マニュアル.md)
 🛠 **設計の意思決定**: [設計書_v0.1.md](設計書_v0.1.md)
 
